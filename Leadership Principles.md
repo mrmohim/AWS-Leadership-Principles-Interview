@@ -289,5 +289,5 @@ We started in a garage, but we're not there anymore. We are big, we impact the w
  
 ---
 
-#### Some Links:
+### Some Links:
 * 1. "https://github.com/rigwild/code-challenges/issues/3#issuecomment-713117049"
