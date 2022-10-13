@@ -1,1 +1,0 @@
-# AWS-Leadership-Principles-Interview
