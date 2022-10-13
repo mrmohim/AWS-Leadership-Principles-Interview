@@ -286,6 +286,8 @@ We started in a garage, but we're not there anymore. We are big, we impact the w
 #### Possible Questions (not from Amazon):
 * "Tell me about a time when you dealt with an issue related to scaling at work."
 * "Tell me about a time when you went the extra mile to help a customer."
+ 
+---
 
-#### Some Link:
-* 1. https://github.com/rigwild/code-challenges/issues/3#issuecomment-713117049
+#### Some Links:
+* 1. "https://github.com/rigwild/code-challenges/issues/3#issuecomment-713117049"
